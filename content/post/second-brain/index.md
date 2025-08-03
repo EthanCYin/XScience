@@ -9,6 +9,8 @@ tags:
   - Markdown
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+cascade:
+  draft: true
 ---
 
 Create a personal knowledge base and share your knowledge with your peers.
