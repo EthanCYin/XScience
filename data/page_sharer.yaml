@@ -36,7 +36,7 @@ links:
   - id: weibo
     url: 'https://service.weibo.com/share/share.php?url={url}&title={title}'
     title: Weibo
-    icon: custom/weibo-brands-solid-full
+    icon: brands/weibo-brands-solid-full
     enable: true
   # - id: reddit
   #   url: 'https://reddit.com/submit?url={url}&title={title}'
