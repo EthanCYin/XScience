@@ -159,8 +159,7 @@ awards:
     certificate_url: 
     date: '2023-12-01'
     awarder: University of Chinese Academy of Sciences
-    icon_pack: custom
-    icon: earth-europe-solid-full
+    icon: brands/weibo-brands-solid-full
     summary: |
       The award is granted to the top 30% of students with the best academic performance.
 ---
