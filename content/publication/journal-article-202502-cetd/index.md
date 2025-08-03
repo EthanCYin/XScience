@@ -51,7 +51,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Average state of future heat waves under SSP1 2.6, SSP2 4.5, and SSP5 8.5'
+  caption: 'Average number of days (a) and average peak severity (b) for each SREX region from 1951 to 2022'
   focal_point: ""
   preview_only: false
 

@@ -51,7 +51,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Graphical user interface of CETD'
+  caption: 'Average state of future heat waves under SSP1 2.6, SSP2 4.5, and SSP5 8.5'
   focal_point: ""
   preview_only: false
 
