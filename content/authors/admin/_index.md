@@ -130,7 +130,7 @@ skills:
         icon: custom/language-solid-full
       - name: Exploring...
         description: ''
-        percent: 0
+        percent: 1
         icon: custom/earth-europe-solid-full
 
 # Awards.
@@ -145,7 +145,7 @@ awards:
     awarder: University of Chinese Academy of Sciences
     icon: person-simple-walk
     summary: |
-      I was awarded a $24,000 international collaboration grant, which supported a 14-month research visit (April 2023 – June 2024) to Columbia University, under the mentorship of Dr. Mingfang Ting and Dr. Kai Kornhuber. This collaboration enabled me to work alongside leading climate scientists.
+      I was awarded a $24,000 international collaboration grant, which supported a 14-month research visit (April 2023 – July 2024) to Columbia University, under the mentorship of Dr. Mingfang Ting and Dr. Kai Kornhuber. This collaboration enabled me to work alongside leading climate scientists.
   - title: 'First Class Director Scholarship'
     url: http://igsnrr.cas.cn/yjsjy/jzxj/
     certificate_url: 
