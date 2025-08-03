@@ -9,7 +9,7 @@ links:
     icon: brands/x
     enable: true
   - id: bluesky
-    url: 'https://bsky.app/intent/compose?text={title}&{url}'
+    url: 'https://bsky.app/intent/compose?text={title}&url={url}'
     title: Bluesky
     icon: brands/bluesky
     enable: true
