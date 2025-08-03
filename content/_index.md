@@ -32,14 +32,12 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        Benefiting from world-class supervision and collaboration, I focus my recent work on extreme fires, one of the most societally and environmentally destructive consequences of climate change.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I increasingly concentrate on predicting extreme fires and developing a mechanistic understanding of their causes, contributing to advances in fire science and fire management, with the potential to save lives and property. Please reach out to collaborate!
     design:
       columns: '1'
   - block: collection
