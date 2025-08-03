@@ -1,20 +1,20 @@
 ---
-title: "Changes in global heat waves and its socioeconomic exposure in a warmer future"
+title: "CETD, a global compound events detection and visualisation toolbox and dataset"
 authors:
 - admin
+- Mingfang Ting
+- Kai Kornhuber
+- Radley M. Horton
 - Yaping Yang
-- Xiaona Chen
-- Xiafang Yue
-- Yangxiaoyue Liu
-- Ying Xin
+- Yelin Jiang
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2022-09-16T00:00:00Z"
-doi: "https://doi.org/10.1016/j.crm.2022.100459"
+date: "2025-02-28T00:00:00Z"
+doi: "https://doi.org/10.1038/s41597-025-04530-x"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-09-20T00:00:00Z"
+publishDate: "2025-03-02T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -22,26 +22,26 @@ publishDate: "2022-09-20T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Climate Risk Management*"
+publication: "*Scientific Data*"
 publication_short: ""
 
-abstract: 'Heat waves are continuous high temperature processes, which are defined as the daily maximum temperature exceeding the absolute-relative combined high temperature thresholds for more than three consecutive days in this study. Because of its unprecedented casualties, devastating compound disasters and irreversible deterioration trends, heat waves have attracted worldwide concern, while its global changes and socioeconomic impacts still need further study. Using three historical reanalysis data and multi scenario CMIP6 modeled data, Global Heat Wave Toolbox (GHWT) was developed to generate heat wave matrix from 1971 to 2100. The long-term changing characteristics of global heat waves were also analyzed. Next, population and GDP projections are employed to estimate future socioeconomic exposure and risks. The results show that except for high latitudes (latitude greater than 60°), high elevations and some coastal areas, heat waves have visited about 45% (±3%) of the global land area (excluding Antarctica). North Africa, North Australia, South Asia, and the Arabian Peninsula are detected as high heat wave area, where experience more than three heat waves with total duration over 15 days annually. Additionally, the average growth rate of global heat waves under SSP2 4.5 and SSP5 8.5 may be 2–3 times and 3–5 times of that under SSP1 2.6, respectively. Under SSP2 4.5, there may be about 7.32 billion people exposed to heat waves in 2100, accounting for 82.65% of the global population. Economic exposure may reach $433.37 trillion in 2100, accounting for 82.23% of the total global economy in that year. India could have the highest population and economic exposure, follow by populous countries, such as Pakistan and Bangladesh, and major economies, such as China and the United States. Under SSP1 2.6, the increase in heat waves may slow down significantly. Moreover, North Africa, Australia, and Brazil are identified as rapid heat wave growth area. Our study highlights the heat wave of future growth and its socioeconomic impacts, as well as the necessity for climate mitigation and adaptation measures.'
+abstract: 'Compound events (CEs) are attracting increased attention due to their significant societal and ecological impacts. However, their inherent complexity can pose challenges for climate scientists and practitioners, highlighting the need for a more approachable and intuitive framework for detecting and visualising CEs. Here, we introduce the Compound Events Toolbox and Dataset (CETD), which provides the first integrated, interactive, and extensible platform for CE detection and visualisation. Employing observations, reanalysis, and model simulations, CETD can quantify the frequency, duration, and severity of multiple CE types: multivariate, sequential, and concurrent events. It can analyse CEs often linked to severe impacts on human health, wildfires, and air pollution, such as hot-dry, wet-windy, and hot-dry-stagnation events. To validate the performance of CETD, we conduct statistical analyses for several high-impact events, such as the 2019 Australian wildfires and the 2022 European heatwaves. The accessibility and extensibility of CETD will benefit the broader community by enabling them to better understand and prepare for the risks and challenges posed by CEs in a warming world.'
 
 # Summary. An optional shortened abstract.
 summary: 
 
 tags:
-- Heat Waves
-- Climate Extremes
-- Exposure
+- Compound Events
+- Data
+- Tool
 featured: true
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S2212096322000663/pdfft?md5=3ff7bccdf9da84e8f8227936eff1ea8c&pid=1-s2.0-S2212096322000663-main.pdf
+url_pdf: https://www.nature.com/articles/s41597-025-04530-x.pdf
 url_code: ''
-url_dataset: 'https://doi.org/10.6084/m9.figshare.17075660.v6'
+url_dataset: 'https://doi.org/10.6084/m9.figshare.27623715'
 url_poster: ''
 url_project: ''
 url_slides: ''
@@ -51,7 +51,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Graphical user interface of CETD'
+  caption: 'Average state of future heat waves under SSP1 2.6, SSP2 4.5, and SSP5 8.5'
   focal_point: ""
   preview_only: false
 
