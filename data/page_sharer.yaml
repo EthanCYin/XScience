@@ -9,7 +9,7 @@ links:
     icon: brands/x
     enable: true
   - id: bluesky
-    url: 'https://bsky.app/intent/compose?text={encoded_title_and_url_combined}'
+    url: 'https://bsky.app/intent/compose?text={text}&{url}'
     title: Bluesky
     icon: brands/bluesky
     enable: true
@@ -35,8 +35,8 @@ links:
     enable: true
   - id: weibo
     url: 'https://service.weibo.com/share/share.php?url={url}&title={title}'
-    title: custom/weibo-brands-solid-full
-    icon: weibo
+    title: Weibo
+    icon: custom/weibo-brands-solid-full
     enable: true
   # - id: reddit
   #   url: 'https://reddit.com/submit?url={url}&title={title}'
