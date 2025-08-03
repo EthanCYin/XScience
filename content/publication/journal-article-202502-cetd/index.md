@@ -39,7 +39,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.nature.com/articles/s41597-025-04530-x.pdf
+url_pdf: 'uploads/journal-article-202502-cetd.pdf'
 url_code: ''
 url_dataset: 'https://doi.org/10.6084/m9.figshare.27623715'
 url_poster: ''

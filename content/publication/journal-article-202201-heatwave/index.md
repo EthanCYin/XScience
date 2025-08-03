@@ -39,7 +39,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.sciencedirect.com/science/article/pii/S2212096322000663/pdfft?md5=3ff7bccdf9da84e8f8227936eff1ea8c&pid=1-s2.0-S2212096322000663-main.pdf
+url_pdf: 'uploads/journal-article-202201-heatwave.pdf'
 url_code: ''
 url_dataset: 'https://doi.org/10.6084/m9.figshare.17075660.v6'
 url_poster: ''
