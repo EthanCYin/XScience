@@ -1,5 +1,5 @@
 ---
-title: Selected Data & Tools
+title: Data & Tools
 cms_exclude: true
 #url: talk
 
