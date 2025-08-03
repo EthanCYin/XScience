@@ -31,13 +31,15 @@ abstract: 'Compound events (CEs) are attracting increased attention due to their
 summary: 
 
 tags:
-- Source Themes
+- Compound Events
+- Data
+- Tool
 featured: false
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://doi.org/10.1038/s41597-025-04530-x
+url_pdf: https://www.nature.com/articles/s41597-025-04530-x.pdf
 url_code: ''
 url_dataset: 'https://doi.org/10.6084/m9.figshare.27623715'
 url_poster: ''
