@@ -143,7 +143,7 @@ awards:
     certificate_url: https://ucas.ac.cn/docs//2023-04/9996a09ff7624edaadf98bd72fbf6a6e.pdf
     date: '2022-11-08'
     awarder: University of Chinese Academy of Sciences
-    icon: pack/trophy-solid-full
+    icon: brands/trophy-solid-full
     summary: |
       I was awarded a $24,000 international collaboration grant, which supported a 14-month research visit (April 2023 – July 2024) to Columbia University, under the mentorship of Dr. Mingfang Ting and Dr. Kai Kornhuber. This collaboration enabled me to work alongside leading climate scientists.
   - title: 'First Class Director Scholarship'
@@ -151,7 +151,7 @@ awards:
     certificate_url: 
     date: '2023-07-01'
     awarder: Institute of Geographic Sciences and Natural Resources Research, CAS
-    icon: pack/medal-solid-full
+    icon: brands/medal-solid-full
     summary: |
       The award is granted to the top 15% of students with the best academic performance.
   - title: 'First Class Academic Scholarship'
@@ -159,7 +159,7 @@ awards:
     certificate_url: 
     date: '2023-12-01'
     awarder: University of Chinese Academy of Sciences
-    icon: pack/award-solid-full
+    icon: brands/award-solid-full
     summary: |
       The award is granted to the top 30% of students with the best academic performance.
 ---
