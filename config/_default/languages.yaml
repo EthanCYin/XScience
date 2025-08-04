@@ -17,7 +17,7 @@ zh:
     description: 殷聪 (Xscience) 的主页。
   menu:
     main:
-      - name: 简介
+      - name: 个人简介
         url: /
         weight: 10
       - name: 学术成果
@@ -35,6 +35,16 @@ zh:
       - name: 工作经历
         url: experience/
         weight: 30
-      # - name: Teaching
+      # - name: 学生培养
       #   url: teaching/
       #   weight: 40
+  # Site header
+  header:
+    navbar:
+      enable: true
+      blox: "navbar"
+      fixed_to_top: true
+      show_search: true
+      show_theme_chooser: true
+      logo:
+        text: "殷聪"
