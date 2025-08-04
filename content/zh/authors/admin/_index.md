@@ -59,7 +59,7 @@ education:
     date_start: 2018-09-01
     date_end: 2024-06-30
     summary: |
-      学位论文题目：全球复合极端气候事件的检测、变化和影响研究。导师：[王卷乐研究员](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/xxxt/200908/t20090819_2421129.html).
+      学位论文题目：全球复合极端气候事件的检测、变化和影响研究。导师：[王卷乐研究员](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/xxxt/200908/t20090819_2421129.html)。
     button:
       text: '阅读学位论文'
       url: 'http://dpaper.las.ac.cn/Dpaper/paperbuy'
@@ -137,7 +137,7 @@ skills:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-获奖经历:
+awards:
   - title: 'Scholarship for the International PhD Joint Training Program'
     url: https://ucas.ac.cn/tz/5cd1a84f792248608474a6bde8ca02f0.htm
     certificate_url: https://ucas.ac.cn/docs//2023-04/9996a09ff7624edaadf98bd72fbf6a6e.pdf
