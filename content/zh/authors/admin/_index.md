@@ -164,7 +164,7 @@ awards:
       The award is granted to the top 30% of students with the best academic performance.
 ---
 
-## About Me
+## 关于我
 
 I am an early-career climate scientist pushing the boundaries of understanding wildfires and climate extremes using hydroclimatic, data-driven, and geostatistical approaches. My work has led to step-changes in understanding the synchronicity and persistence of extreme fire weather, factors that strongly influence extreme fires.
 

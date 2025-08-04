@@ -1,6 +1,6 @@
 ---
-title: I launched a WeChat public account called Extreme Science!
-summary: On February 22, 2025, I launched a WeChat public account called Extreme Science!
+title: 我创建了微信公众号“极端科学”！
+summary: 2025年2月22日，我创建了一个微信公众号“极端科学”！
 date: 2025-02-25
 
 # Featured image

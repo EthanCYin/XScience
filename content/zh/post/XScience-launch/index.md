@@ -1,6 +1,6 @@
 ---
-title: A New Beginning! My Personal Academic Website, XScience, is Live.
-summary: On August 1, 2025, my very first personal academic homepage, XScience, is finally live!
+title: 我的第一个个人学术主页 XScience 上线了！
+summary: 2025年8月的第一天，我的第一个个人学术主页 XScience 终于上线了！
 date: 2025-08-01
 
 # Featured image
