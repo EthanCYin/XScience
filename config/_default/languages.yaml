@@ -40,6 +40,7 @@ zh:
       #   weight: 40
   # Site header
   params:
+    # Site header
     header:
       navbar:
         enable: true
@@ -49,6 +50,8 @@ zh:
         show_theme_chooser: true
         logo:
           text: "殷聪"
+
+    # Site footer
     footer:
       copyright:
         notice: '© {year} XScience。采用 {license} 授权许可'
@@ -57,6 +60,8 @@ zh:
           allow_derivatives: false
           share_alike: true
           allow_commercial: false
+
+    # Localization
     locale:
-      date_format: '2019年4月1日'
+      date_format: '2006年1月2日'
       time_format: '下午3:04'
