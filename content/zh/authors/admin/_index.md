@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Cong Yin
+title: 殷聪
 
 # Name pronunciation (optional)
-name_pronunciation: 殷聪
+name_pronunciation: Cong Yin
 
 # Full name (for SEO)
-first_name: Cong
-last_name: Yin
+first_name: 聪
+last_name: 殷
 
 # Status emoji
 status:
@@ -20,11 +20,11 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoc Scientist
+role: 博士后
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: University of California, Merced
+  - name: 加州大学Merced分校
     url: https://snri.ucmerced.edu/content/cong-yin
 
 # Social network links
@@ -49,52 +49,52 @@ profiles:
     url: https://www.researchgate.net/profile/Cong-Yin-3
 
 interests:
-  - Wildfire
-  - Climate Extremes
-  - Artificial Intelligence
+  - 野火
+  - 极端气候事件
+  - 人工智能
 
 education:
-  - area: PhD, Geographic Information System
-    institution: University of the Chinese Academy of Sciences
+  - area: 博士，地理信息系统
+    institution: 中国科学院大学
     date_start: 2018-09-01
     date_end: 2024-06-30
     summary: |
-      Thesis on _Detection, Changes, and Impacts of Global Compound Events_. Supervised by [Prof Juanle Wang](http://english.igsnrr.cas.cn/sourcedb/yw_30508/scientists/En_sklreis/200908/t20090819_456359.html).
+      学位论文题目：全球复合极端气候事件的检测、变化和影响研究。导师：[王卷乐研究员](https://igsnrr.cas.cn/sourcedb/zw/zjrck/kygg/xxxt/200908/t20090819_2421129.html).
     button:
-      text: 'Read Thesis'
+      text: '阅读学位论文'
       url: 'http://dpaper.las.ac.cn/Dpaper/paperbuy'
-  - area: Visiting PhD, Climate Dynamics
-    institution: Columbia University
+  - area: 联合培养博士，气候动力学
+    institution: 哥伦比亚大学
     date_start: 2023-04-01
     date_end: 2024-07-31
     summary: |
-      Work on [a global compound event detection and visualization toolbox and dataset](https://doi.org/10.1038/s41597-025-04530-x). Supervised by [Prof. Mingfang Ting](https://lamont.columbia.edu/directory/mingfang-ting) and [Dr. Kai Kornhuber](https://iiasa.ac.at/staff/kai-kornhuber).
-  - area: BSc, Land Resources Management
-    institution: Chang’an University
+      在[Mingfang Ting教授](https://lamont.columbia.edu/directory/mingfang-ting)和[Kai Kornhuber博士](https://iiasa.ac.at/staff/kai-kornhuber)的指导下发表论文：[a global compound event detection and visualization toolbox and dataset](https://doi.org/10.1038/s41597-025-04530-x)。
+  - area: 学士，土地资源管理
+    institution: 长安大学
     date_start: 2014-09-01
     date_end: 2018-06-30
     summary: |
-      GPA: 3.5/4.0
+      绩点: 3.5/4.0
 work:
-  - position: Postdoc Scientist
-    company_name: University of California, Merced
+  - position: 博士后
+    company_name: 加州大学Merced分校
     company_url: 'https://snri.ucmerced.edu/content/cong-yin'
     company_logo: ''
     date_start: 2024-08-01
     date_end: ''
     summary: |2-
-      Research:
+      研究工作:
       - Increasing synchronicity of global extreme fire weather
       - Fire weather waves fuel extreme fire activity
       - Heatwaves enable wildfire activity in the western United States
-  - position: Research Assistant
-    company_name: Institute of Geographic Sciences and Natural Resources Research, CAS
-    company_url: 'http://english.igsnrr.cas.cn'
+  - position: 研究助理
+    company_name: 中国科学院地理科学与资源研究所
+    company_url: 'http://igsnrr.cas.cn'
     company_logo: ''
     date_start: 2018-09-01
     date_end: 2024-06-30
     summary: |
-      Research:
+      研究工作:
       - [Changes in global heat waves and its socioeconomic exposure in a warmer future](https://doi.org/10.1016/j.crm.2022.100459)
       - [Diagnose the dominant climate factors and periods of spring phenology in Qinling Mountains, China](https://doi.org/10.1016/j.ecolind.2021.108211)
       - [Spatiotemporal distribution and risk assessment of heat waves based on apparent temperature in the one belt and one road region](https://doi.org/10.3390/rs12071174)
@@ -102,7 +102,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: 技术能力
     items:
       - name: Linux
         description: ''
@@ -116,7 +116,7 @@ skills:
         description: ''
         percent: 90
         icon: custom/r-solid-full
-  - name: Languages
+  - name: 语言能力
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
@@ -137,7 +137,7 @@ skills:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+获奖经历:
   - title: 'Scholarship for the International PhD Joint Training Program'
     url: https://ucas.ac.cn/tz/5cd1a84f792248608474a6bde8ca02f0.htm
     certificate_url: https://ucas.ac.cn/docs//2023-04/9996a09ff7624edaadf98bd72fbf6a6e.pdf
