@@ -1,6 +1,6 @@
 ---
 title: '学习和工作经历'
-date: 2006年1月2日
+date: 2023年10月24日
 type: landing
 
 design:
@@ -16,7 +16,7 @@ sections:
       username: admin
     design:
       # Hugo date format
-      date_format: '2006年1月2日'
+      date_format: '2006年1月'
       # Education or Experience section first?
       is_education_first: false
   - block: resume-skills
