@@ -57,3 +57,5 @@ zh:
           allow_derivatives: false
           share_alike: true
           allow_commercial: false
+    params:
+      dateFormat: "2019年4月1日"
