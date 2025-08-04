@@ -32,7 +32,7 @@ zh:
       - name: 最新动态
         url: post/
         weight: 20
-      - name: 工作经历
+      - name: 学术履历
         url: experience/
         weight: 30
       # - name: 学生培养

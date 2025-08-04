@@ -1,5 +1,5 @@
 ---
-title: Teaching
+title: 授课和培养
 summary: My courses
 type: landing
 
