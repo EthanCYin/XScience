@@ -51,10 +51,9 @@ profiles:
 interests:
   - 野火
   - 极端气候事件
-  - 人工智能
 
 education:
-  - area: 博士，地理信息系统
+  - area: 博士，地图学与地理信息系统
     institution: 中国科学院大学
     date_start: 2018-09-01
     date_end: 2024-06-30
@@ -166,5 +165,5 @@ awards:
 
 ## 关于我
 
-我专注于气候科学领域，致力于通过水文气候、数据驱动和空间统计方法，增进对野火和极端气候事件的理解。我在揭示极端火灾天气的同步性与持续性方面取得了进展，而这些因素对极端火灾具有重要影响。
+我专注于气候科学领域，致力于通过水文气候、数据驱动和空间统计方法，增进对野火和极端气候事件的理解。我在揭示极端火灾天气的同步性与持续性方面取得了进展，这些因素对极端火灾具有重要影响。
 我目前在加州大学Merced分校做博士后，与[John Abatzoglou教授](https://engineering.ucmerced.edu/content/john-abatzoglou)合作，他领导着[Climatology lab](https://www.climatologylab.org)。

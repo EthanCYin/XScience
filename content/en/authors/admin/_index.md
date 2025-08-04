@@ -51,7 +51,6 @@ profiles:
 interests:
   - Wildfire
   - Climate Extremes
-  - Artificial Intelligence
 
 education:
   - area: PhD, Geographic Information System
