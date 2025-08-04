@@ -33,9 +33,9 @@ authors:
   - Yelin Jiang
 
 tags:
-  - Compound Events
-  - Data
-  - Tool
+  - 复合事件
+  - 数据
+  - 工具
 
 # Is this a featured talk? (true/false)
 featured: false

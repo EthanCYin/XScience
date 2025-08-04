@@ -29,9 +29,9 @@ authors:
   - John Abatzoglou
 
 tags:
-  - Wildfire
-  - Extreme Weather
-  - Global
+  - 野火
+  - 极端火灾天气
+  - 全球
 
 # Is this a featured talk? (true/false)
 featured: true

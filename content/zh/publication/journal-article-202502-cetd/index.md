@@ -31,9 +31,9 @@ abstract: 'Compound events (CEs) are attracting increased attention due to their
 summary: 
 
 tags:
-- Compound Events
-- Data
-- Tool
+- 复合事件
+- 数据
+- 工具
 featured: true
 
 # links:

@@ -31,9 +31,9 @@ abstract: 'Heat waves are continuous high temperature processes, which are defin
 summary: 
 
 tags:
-- Heat Waves
-- Climate Extremes
-- Exposure
+- 热浪
+- 极端气候事件
+- 暴露度
 featured: true
 
 # links:

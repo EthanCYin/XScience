@@ -30,7 +30,7 @@ authors:
 
 tags:
   - Wildfire
-  - Extreme Weather
+  - Extreme fire Weather
   - Global
 
 # Is this a featured talk? (true/false)

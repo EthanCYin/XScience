@@ -68,7 +68,7 @@ education:
     date_start: 2023-04-01
     date_end: 2024-07-31
     summary: |
-      在[Mingfang Ting教授](https://lamont.columbia.edu/directory/mingfang-ting)和[Kai Kornhuber博士](https://iiasa.ac.at/staff/kai-kornhuber)的指导下发表论文：[a global compound event detection and visualization toolbox and dataset](https://doi.org/10.1038/s41597-025-04530-x)。
+      在[Mingfang Ting教授](https://lamont.columbia.edu/directory/mingfang-ting)和[Kai Kornhuber博士](https://iiasa.ac.at/staff/kai-kornhuber)的指导下发表论文：[CETD, a global compound events detection and visualisation toolbox and dataset](https://doi.org/10.1038/s41597-025-04530-x)。
   - area: 学士，土地资源管理
     institution: 长安大学
     date_start: 2014-09-01
@@ -120,15 +120,15 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: English
+      - name: 英语
         description: ''
         percent: 85
         icon: custom/a-solid-full
-      - name: Chinese
+      - name: 汉语
         description: ''
         percent: 100
         icon: custom/language-solid-full
-      - name: Exploring...
+      - name: 探索中...
         description: ''
         percent: 1
         icon: custom/earth-europe-solid-full
@@ -138,34 +138,33 @@ skills:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: 'Scholarship for the International PhD Joint Training Program'
+  - title: '博士研究生国际合作培养计划'
     url: https://ucas.ac.cn/tz/5cd1a84f792248608474a6bde8ca02f0.htm
     certificate_url: https://ucas.ac.cn/docs//2023-04/9996a09ff7624edaadf98bd72fbf6a6e.pdf
     date: '2022-11-08'
-    awarder: University of Chinese Academy of Sciences
+    awarder: 中国科学院大学
     icon: brands/trophy-solid-full
     summary: |
-      I was awarded a $24,000 international collaboration grant, which supported a 14-month research visit (April 2023 – July 2024) to Columbia University, under the mentorship of Dr. Mingfang Ting and Dr. Kai Kornhuber. This collaboration enabled me to work alongside leading climate scientists.
-  - title: 'First Class Director Scholarship'
+      我入选了中国科学院大学2022年度博士研究生国际合作培养计划，在哥伦比亚大学进行了为期14个月（2023年4月至2024年7月）的联合培养。期间，我在Mingfang Ting教授和Kai Kornhuber博士的指导下开展工作。这使我有机会向气候科学领域的顶尖学者学习，并开展合作。
+  - title: '一等所长奖学金'
     url: http://igsnrr.cas.cn/yjsjy/jzxj/
     certificate_url: 
     date: '2023-07-01'
-    awarder: Institute of Geographic Sciences and Natural Resources Research, CAS
+    awarder: 中国科学院地理科学与资源研究所
     icon: brands/medal-solid-full
     summary: |
-      The award is granted to the top 15% of students with the best academic performance.
-  - title: 'First Class Academic Scholarship'
+      该奖项颁发给学术表现前15%的学生。
+  - title: '一等学业奖学金'
     url: https://onestop.ucas.ac.cn/home/info/4b058ab2-d690-4ccf-9a9c-4ec481c39749/1
     certificate_url: 
     date: '2023-12-01'
-    awarder: University of Chinese Academy of Sciences
+    awarder: 中国科学院大学
     icon: brands/award-solid-full
     summary: |
-      The award is granted to the top 30% of students with the best academic performance.
+      该奖项颁发给学术表现前30%的学生。
 ---
 
 ## 关于我
 
-I am an early-career climate scientist pushing the boundaries of understanding wildfires and climate extremes using hydroclimatic, data-driven, and geostatistical approaches. My work has led to step-changes in understanding the synchronicity and persistence of extreme fire weather, factors that strongly influence extreme fires.
-
-I work with [Prof. John Abatzoglou](https://engineering.ucmerced.edu/content/john-abatzoglou), who leads the [Climatology lab](https://www.climatologylab.org) at University of California, Merced.
+我专注于气候科学领域，致力于通过水文气候、数据驱动和空间统计方法，增进对野火和极端气候事件的理解。我在揭示极端火灾天气的同步性与持续性方面取得了进展，而这些因素对极端火灾具有重要影响。
+我目前在加州大学Merced分校做博士后，与[John Abatzoglou教授](https://engineering.ucmerced.edu/content/john-abatzoglou)合作，他领导着[Climatology lab](https://www.climatologylab.org)。

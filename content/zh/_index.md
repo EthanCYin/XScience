@@ -16,8 +16,8 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
-        url: uploads/resume.pdf
+        text: 查看简历
+        url: 'uploads/resume.pdf'
     design:
       css_class: dark
       background:
@@ -32,18 +32,16 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: 'My Research'
+      title: '研究方向'
       subtitle: ''
       text: |-
-        Benefiting from world-class supervision and collaboration, I focus my recent work on extreme fires, one of the most societally and environmentally destructive consequences of climate change.
-
-        I increasingly concentrate on predicting extreme fires and developing a mechanistic understanding of their causes, contributing to advances in fire science and fire management, with the potential to save lives and property. Please reach out to collaborate!
+        我近期的研究聚焦于极端火灾——气候变化最具社会和环境破坏性的后果之一。我正专注于极端火灾的预测及其成因的机制性理解，旨在为火灾科学和火灾管理的发展贡献力量，为拯救生命、保护财产提供科学见解。欢迎联系合作！
     design:
       columns: '1'
   - block: collection
     id: papers
     content:
-      title: Featured Publications
+      title: 代表性成果
       filters:
         folders:
           - publication
@@ -53,7 +51,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: 最新成果
       text: ""
       filters:
         folders:
@@ -64,7 +62,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent Presentations
+      title: 最新报告
       filters:
         folders:
           - event
@@ -74,7 +72,7 @@ sections:
   - block: collection
     id: news
     content:
-      title: Recent News
+      title: 最新动态
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...

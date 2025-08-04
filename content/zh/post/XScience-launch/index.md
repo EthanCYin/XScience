@@ -13,8 +13,8 @@ authors:
 
 tags:
   - XScience
-  - Personal Website
-  - Academic
+  - 个人网站
+  - 学术
 ---
 
 欢迎！
