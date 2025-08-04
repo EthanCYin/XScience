@@ -32,7 +32,10 @@ authors:
   - Yaping Yang
   - Yelin Jiang
 
-tags: []
+tags:
+  - Compound Events
+  - Data
+  - Tool
 
 # Is this a featured talk? (true/false)
 featured: false
