@@ -51,6 +51,7 @@ profiles:
 interests:
   - Wildfire
   - Climate Extremes
+  - Hydroclimatology
 
 education:
   - area: PhD, Geographic Information System

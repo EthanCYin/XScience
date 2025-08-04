@@ -51,6 +51,7 @@ profiles:
 interests:
   - 野火
   - 极端气候事件
+  - 水文气候学
 
 education:
   - area: 博士，地图学与地理信息系统
