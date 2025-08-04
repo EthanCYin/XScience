@@ -57,4 +57,6 @@ zh:
           allow_derivatives: false
           share_alike: true
           allow_commercial: false
-    dateFormat: "2019年4月1日"
+    locale:
+      date_format: '2019年4月1日'
+      time_format: '下午3:04'
