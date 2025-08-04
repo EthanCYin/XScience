@@ -39,12 +39,21 @@ zh:
       #   url: teaching/
       #   weight: 40
   # Site header
-  header:
-    navbar:
-      enable: true
-      blox: "navbar"
-      fixed_to_top: true
-      show_search: true
-      show_theme_chooser: true
-      logo:
-        text: "殷聪"
+  params:
+    header:
+      navbar:
+        enable: true
+        blox: "navbar"
+        fixed_to_top: true
+        show_search: true
+        show_theme_chooser: true
+        logo:
+          text: "殷聪"
+    footer:
+      copyright:
+        notice: '© {year} XScience。采用 {license} 授权许可'
+        license:
+          enable: true
+          allow_derivatives: false
+          share_alike: true
+          allow_commercial: false
