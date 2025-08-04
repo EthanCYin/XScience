@@ -29,4 +29,7 @@ sections:
     content:
       title: 获奖经历
       username: admin
+    design:
+      # Hugo date format
+      date_format: '2006年1月'
 ---
