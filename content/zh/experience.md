@@ -1,6 +1,6 @@
 ---
 title: '学习和工作经历'
-date: 2023年10月24日
+date: 2023-10-24
 type: landing
 
 design:
