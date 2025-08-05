@@ -1,7 +1,9 @@
-<footer class="site-footer" style="text-align:center; margin-top: 5rem;">
+<footer class="site-footer" style="text-align:center; margin-top: 3rem;">
+
+  {{ $year := now.Year }}
 
   <p class="powered-by">
-    {{ i18n "footer_combined" | markdownify }}
+    {{ i18n "footer_combined" | replaceRE "\\{\\{ year \\}\\}" (printf "%d" $year) | markdownify }}
   </p>
 
 </footer>
