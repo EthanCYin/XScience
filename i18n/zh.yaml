@@ -2,7 +2,6 @@
   translation: "学习和工作经历"
 - id: interests
   translation: "研究兴趣"
-- id: license_notice
-  translation: "© {{ now.Year }} XScience。采用[CC BY-NC-ND 4.0 许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/)共享。"
-- id: combined_footer
-  translation: "由[Hugo Blox Builder](https://hugoblox.com)构建，由[殷聪](https://github.com/EthanCYin/XScience)编辑。"
+- id: footer_combined
+  translation: "© {{ now.Year }} XScience。采用[CC BY-NC-ND 4.0 许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/)。<br>由[Hugo Blox Builder](https://hugoblox.com)构建，由[殷聪](https://github.com/EthanCYin/XScience)编辑。"
+
