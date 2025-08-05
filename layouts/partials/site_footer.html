@@ -3,14 +3,16 @@
   {{/* Removed get_hook call to avoid Netlify build error */}}
   {{/* partial "blox-core/functions/get_hook" (dict "hook" "footer-start" "context" .) */}}
 
-  {{/* Wrap footer block (which includes language switcher) in a div to center it */}}
-  <div style="display: flex; justify-content: center;">
-    {{ $footer_section_name := site.Params.footer.block | default "minimal" }}
-    {{ $footer_section_path := printf "components/footers/%s.html" $footer_section_name }}
-    {{ if not (templates.Exists (printf "partials/%s" $footer_section_path)) }}
-      {{ errorf "Check your `params.yaml`. Cannot find footer block at `layouts/partials/%s`" $footer_section_path }}
-    {{ end }}
-    {{ partial $footer_section_path . }}
+  {{/* Center and separate language switcher with spacing above and below */}}
+  <div style="display: flex; justify-content: center; margin: 2rem 0 1rem;">
+    <div>
+      {{ $footer_section_name := site.Params.footer.block | default "minimal" }}
+      {{ $footer_section_path := printf "components/footers/%s.html" $footer_section_name }}
+      {{ if not (templates.Exists (printf "partials/%s" $footer_section_path)) }}
+        {{ errorf "Check your `params.yaml`. Cannot find footer block at `layouts/partials/%s`" $footer_section_path }}
+      {{ end }}
+      {{ partial $footer_section_path . }}
+    </div>
   </div>
 
   <p class="powered-by">
