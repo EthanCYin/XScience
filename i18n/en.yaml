@@ -1,2 +1,2 @@
 - id: footer_combined
-  translation: "© {{ .Year }} XScience. Licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).<br>Published with [Hugo Blox Builder](https://hugoblox.com), edited by [Cong Yin](https://github.com/EthanCYin/XScience)."
+  translation: "© {{ .Year }} XScience. This work is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).<br>Published with [Hugo Blox Builder](https://hugoblox.com), edited by [Cong Yin](https://github.com/EthanCYin/XScience)."
