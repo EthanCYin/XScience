@@ -60,5 +60,4 @@ features:
     enable: false
 
 params:
-  customCSS:
-    - css/custom.css
+  customCSS: static/css/custom.css
