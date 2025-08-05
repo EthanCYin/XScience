@@ -1,56 +1,52 @@
-/* =====================================================================
-// Final Search Overlay Solution (v3)
-// Polished for a better mobile experience. All comments in English.
-// ===================================================================== */
-
 /* 1. Style the main search container (#search) as a full-screen overlay. */
 #search {
-  position: fixed; /* Fix its position relative to the browser window */
+  position: fixed;
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  z-index: 999; /* Ensure it's on top of all other content */
-  background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black background */
-  display: flex; /* Use flexbox for alignment */
-  
-  /* Allow the entire overlay to be scrollable if content overflows */
-  /* This is key for small screens where the keyboard might appear */
-  overflow-y: auto;
-  
-  /* ADJUSTED: Reduced padding for a better fit on mobile devices. */
-  padding: 2rem 1rem; /* Provides vertical and horizontal space */
+  z-index: 999;
+  background-color: rgba(0, 0, 0, 0.7);
+  display: flex;
 
-  /* This class is toggled by JavaScript to show/hide the search */
+  /* --- Added: Make the entire overlay scrollable --- */
+  /* This solves the problem of content not being fully visible after the keyboard pops up on small screens */
+  overflow-y: auto;
+
+  /* --- Added: Add top and bottom padding to the overlay --- */
+  /* This prevents the search box from sticking to the screen edges */
+  padding: 10vh 0;
+
+  /* Hidden by default (controlled by the theme's JS script by adding or removing the 'hidden' class) */
   &.hidden {
     display: none;
   }
 }
 
-/* 2. Style the actual Pagefind UI box within the overlay. */
+/* 2. Style the Pagefind UI search box itself inside the overlay. */
 #search .pagefind-ui {
-  width: 100%; /* Take the full width of the padded parent */
-  max-width: 700px; /* Set a maximum width for large screens */
-  
-  /* Let the parent's padding and flexbox handle alignment */
-  margin: 0;
-  
-  background-color: #fff; /* Standard light-mode background */
+  width: 90%;
+  max-width: 700px;
+
+  /* --- Modified: Remove the fixed top margin to let it align naturally within the overlay --- */
+  margin: auto; /* Using auto allows it to be centered horizontally and vertically (if there is enough space) */
+
+  background-color: #fff;
   border-radius: 8px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
   padding: 1rem;
 }
 
-/* 3. Style the search box for dark mode. */
+/* Adaptation for dark mode */
 html.dark #search .pagefind-ui {
-  background-color: #152028; /* A dark background matching the theme */
+  background-color: #152028; /* Background color for dark mode */
 }
 
-/* 4. Style the results list within the search box. */
+/* 3. Optimize the results list style */
 #search .pagefind-ui__results {
   border: none;
-  max-height: 60vh; /* Set a max-height for the results area */
-  
-  /* Allow the results list itself to scroll when content overflows */
+  max-height: 60vh;
+
+  /* --- Added: Allow the results list itself to scroll --- */
   overflow-y: auto;
 }
