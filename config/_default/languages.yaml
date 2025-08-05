@@ -54,7 +54,7 @@ zh:
     # Site footer
     footer:
       copyright:
-        notice: '© {year} XScience {license}'
+        notice: '© {year} XScience, {license}.'
         license:
           enable: true
           allow_derivatives: false
