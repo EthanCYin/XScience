@@ -1,0 +1,45 @@
+/* =====================================================================
+// 最终搜索浮层修复方案 (CSS 版本)
+// ===================================================================== */
+
+/* 1. 将主搜索容器 (#search) 样式化为全屏浮层。 */
+#search {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 999;
+  background-color: rgba(0, 0, 0, 0.7);
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+/* 默认隐藏 (由主题的JS脚本通过添加或删除 'hidden' class 来控制) */
+#search.hidden {
+  display: none;
+}
+
+/* 2. 为浮层内部的 Pagefind UI 搜索框本身设置样式。 */
+#search .pagefind-ui {
+  width: 90%;
+  max-width: 700px;
+  margin-top: 10vh;
+  /* --bs-body-bg 是 Bootstrap 定义的变量，我们在这里直接用标准颜色 */
+  background-color: #fff; 
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  padding: 1rem;
+}
+
+/* 针对暗黑模式的适配 */
+html.dark #search .pagefind-ui {
+  background-color: #152028; /* 暗黑模式下的背景色 */
+}
+
+/* 3. 优化结果列表样式 */
+#search .pagefind-ui__results {
+  border: none;
+  max-height: 60vh;
+}
