@@ -15,7 +15,7 @@
 
   /* --- Added: Add top and bottom padding to the overlay --- */
   /* This prevents the search box from sticking to the screen edges */
-  padding: 10vh 0;
+  padding: 5vh 0;
 
   /* Hidden by default (controlled by the theme's JS script by adding or removing the 'hidden' class) */
   &.hidden {
@@ -34,7 +34,7 @@
   background-color: #fff;
   border-radius: 8px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
-  padding: 1rem;
+  padding: 0.5rem 1rem;
 }
 
 /* Adaptation for dark mode */
