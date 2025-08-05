@@ -1,4 +1,4 @@
-- id: published_with
-  translation: "Published with [Hugo Blox Builder](https://hugoblox.com) — the free, open source website builder."
-- id: edited_by
-  translation: "Edited by [Cong Yin](https://github.com/EthanCYin/XScience)."
+- id: license_notice
+  translation: "© {{ now.Year }} XScience. This work is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)."
+- id: combined_footer
+  translation: "Published with [Hugo Blox Builder](https://hugoblox.com), Edited by [Cong Yin](https://github.com/EthanCYin/XScience)."
