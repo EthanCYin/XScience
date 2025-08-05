@@ -3,5 +3,5 @@
 - id: interests
   translation: "研究兴趣"
 - id: footer_combined
-  translation: "© XScience。采用[CC BY-NC-ND 4.0 许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/)。<br>由[Hugo Blox Builder](https://hugoblox.com)构建，由[殷聪](https://github.com/EthanCYin/XScience)编辑。"
+  translation: "© {{ .Year }} XScience。采用[CC BY-NC-ND 4.0 许可协议](https://creativecommons.org/licenses/by-nc-nd/4.0/)。<br>由[Hugo Blox Builder](https://hugoblox.com)构建，由[殷聪](https://github.com/EthanCYin/XScience)编辑。"
 
