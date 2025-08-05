@@ -1,57 +1,56 @@
 /* =====================================================================
-// 最终搜索浮层优化方案 (v2)
-// 修复了滚动和移动端显示问题
+// Final Search Overlay Solution (v3)
+// Polished for a better mobile experience. All comments in English.
 // ===================================================================== */
 
-/* 1. 将主搜索容器 (#search) 样式化为全屏浮层。 */
+/* 1. Style the main search container (#search) as a full-screen overlay. */
 #search {
-  position: fixed;
+  position: fixed; /* Fix its position relative to the browser window */
   top: 0;
   left: 0;
   right: 0;
   bottom: 0;
-  z-index: 999;
-  background-color: rgba(0, 0, 0, 0.7);
-  display: flex;
+  z-index: 999; /* Ensure it's on top of all other content */
+  background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black background */
+  display: flex; /* Use flexbox for alignment */
   
-  /* --- 新增：让整个浮层可以滚动 --- */
-  /* 这解决了在小屏幕上键盘弹出后内容显示不全的问题 */
+  /* Allow the entire overlay to be scrollable if content overflows */
+  /* This is key for small screens where the keyboard might appear */
   overflow-y: auto;
   
-  /* --- 新增：给浮层增加上下内边距 --- */
-  /* 这样搜索框就不会紧贴着屏幕边缘 */
-  padding: 5vh 0;
+  /* ADJUSTED: Reduced padding for a better fit on mobile devices. */
+  padding: 2rem 1rem; /* Provides vertical and horizontal space */
 
-  /* 默认隐藏 (由主题的JS脚本通过添加或删除 'hidden' class 来控制) */
+  /* This class is toggled by JavaScript to show/hide the search */
   &.hidden {
     display: none;
   }
 }
 
-/* 2. 为浮层内部的 Pagefind UI 搜索框本身设置样式。 */
+/* 2. Style the actual Pagefind UI box within the overlay. */
 #search .pagefind-ui {
-  width: 90%;
-  max-width: 700px;
+  width: 100%; /* Take the full width of the padded parent */
+  max-width: 700px; /* Set a maximum width for large screens */
   
-  /* --- 修改：移除固定的上边距，让它在浮层内自然对齐 --- */
-  margin: auto; /* 使用 auto 让它在水平和垂直方向都居中（如果空间足够）*/
+  /* Let the parent's padding and flexbox handle alignment */
+  margin: 0;
   
-  background-color: #fff;
+  background-color: #fff; /* Standard light-mode background */
   border-radius: 8px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
   padding: 1rem;
 }
 
-/* 针对暗黑模式的适配 */
+/* 3. Style the search box for dark mode. */
 html.dark #search .pagefind-ui {
-  background-color: #152028; /* 暗黑模式下的背景色 */
+  background-color: #152028; /* A dark background matching the theme */
 }
 
-/* 3. 优化结果列表样式 */
+/* 4. Style the results list within the search box. */
 #search .pagefind-ui__results {
   border: none;
-  max-height: 60vh;
+  max-height: 60vh; /* Set a max-height for the results area */
   
-  /* --- 新增：允许结果列表本身滚动 --- */
+  /* Allow the results list itself to scroll when content overflows */
   overflow-y: auto;
 }

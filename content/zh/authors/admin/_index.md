@@ -166,5 +166,5 @@ awards:
 
 ## 关于我
 
-我专注于气候科学领域，致力于通过水文气候、数据驱动和空间统计方法，增进对野火和极端气候事件的理解。我在揭示极端火灾天气的同步性与持续性方面取得了进展，这些因素对极端火灾具有重要影响。
+我专注于气候科学领域，致力于使用水文气候、数据驱动和空间统计方法，增进对野火和极端气候事件的理解。我在揭示极端火灾天气的同步性和持续性方面取得了进展，这些因素对极端火灾具有重要影响。
 我目前在加州大学Merced分校做博士后，与[John Abatzoglou教授](https://engineering.ucmerced.edu/content/john-abatzoglou)合作，他领导着[Climatology lab](https://www.climatologylab.org)。
