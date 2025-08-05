@@ -34,7 +34,7 @@
   background-color: #fff;
   border-radius: 8px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
-  padding: 0.5rem 1rem;
+  padding: 1rem;
 }
 
 /* Adaptation for dark mode */
@@ -45,7 +45,7 @@ html.dark #search .pagefind-ui {
 /* 3. Optimize the results list style */
 #search .pagefind-ui__results {
   border: none;
-  max-height: 60vh;
+  max-height: 50vh;
 
   /* --- Added: Allow the results list itself to scroll --- */
   overflow-y: auto;

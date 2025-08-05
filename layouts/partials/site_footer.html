@@ -1,14 +1,14 @@
-<footer class="site-footer">
+<footer class="site-footer" style="text-align:center;">
 
-  {{/* The line below was causing the build error and has been removed. */}}
-  {{/* {{ partial "blox-core/functions/get_hook" (dict "hook" "footer-start" "context" .) }} */}}
+  {{ partial "blox-core/functions/get_hook" (dict "hook" "footer-start" "context" .) }}
 
   {{/* Load footer block (This is the copyright/license section) */}}
   {{ $footer_section_name := site.Params.footer.block | default "minimal" }}
   {{ $footer_section_path := printf "components/footers/%s.html" $footer_section_name }}
-  {{ if templates.Exists (printf "partials/%s" $footer_section_path) }}
-    {{ partial $footer_section_path . }}
+  {{ if not (templates.Exists (printf "partials/%s" $footer_section_path)) }}
+    {{ errorf "Check your `params.yaml`. Cannot find footer block at `layouts/partials/%s`" $footer_section_path }}
   {{ end }}
+  {{ partial $footer_section_path . }}
 
   {{/* Default "Published with Hugo Blox Builder" notice */}}
   <p class="powered-by">
@@ -27,10 +27,10 @@
       {{ $i18n_published_with | replaceRE "{year}" now.Year | markdownify | emojify | safeHTML }}
     {{ end }}
   </p>
-  
-  {{/* --- YOUR CUSTOM LINE --- */}}
-  <p class="<b>text-center</b> powered-by">
-    Edited by <a href="https://github.com/EthanCYin/XScience" target="_blank" rel="noopener noreferrer">Cong Yin</a>.
-  </p>
 
+  {{/* --- ADD YOUR CUSTOM LINE HERE --- */}}
+  <p class="powered-by">
+    Edited by <a href="https://github.com/EthanCYin/XScience" target="_blank" rel="noopener">Cong Yin</a>.
+  </p>
+  
 </footer>
