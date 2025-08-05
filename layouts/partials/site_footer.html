@@ -1,6 +1,7 @@
 <footer class="site-footer" style="text-align:center;">
 
-  {{ partial "blox-core/functions/get_hook" (dict "hook" "footer-start" "context" .) }}
+  {{/* Removed get_hook call to avoid Netlify build error */}}
+  {{/* partial "blox-core/functions/get_hook" (dict "hook" "footer-start" "context" .) */}}
 
   {{/* Load footer block (This is the copyright/license section) */}}
   {{ $footer_section_name := site.Params.footer.block | default "minimal" }}
@@ -28,7 +29,7 @@
     {{ end }}
   </p>
 
-  {{/* --- ADD YOUR CUSTOM LINE HERE --- */}}
+  {{/* --- Custom line added --- */}}
   <p class="powered-by">
     Edited by <a href="https://github.com/EthanCYin/XScience" target="_blank" rel="noopener">Cong Yin</a>.
   </p>
