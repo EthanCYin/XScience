@@ -2,7 +2,7 @@
 title: 'CETD: 复合事件工具箱与数据集'
 summary: 'CETD: 首个集成化、交互式、可扩展的复合事件（CE）检测与可视化平台'
 date: 2025-02-28
-external_link: https://doi.org/10.6084/m9.figshare.27623715
+url_project: 'https://doi.org/10.6084/m9.figshare.27623715'
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
