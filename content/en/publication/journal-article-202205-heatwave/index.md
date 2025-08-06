@@ -2,7 +2,6 @@
 title: "Global near real-time daily apparent temperature and heat wave dataset"
 authors:
 - admin
-- Cong Yin
 - Yaping Yang
 - Xiaona Chen
 - Xiafang Yue

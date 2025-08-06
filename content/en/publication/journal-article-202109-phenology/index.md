@@ -2,7 +2,6 @@
 title: "Diagnose the dominant climate factors and periods of spring phenology in Qinling Mountains, China"
 authors:
 - admin
-- Cong Yin
 - Yaping Yang
 - Fei Yang
 - Xiaona Chen

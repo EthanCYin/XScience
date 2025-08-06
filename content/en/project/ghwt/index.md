@@ -1,6 +1,6 @@
 ---
 title: GHWT
-date: 2025-02-28
+date: 2022-09-16
 external_link: https://doi.org/10.6084/m9.figshare.17075660.v6
 tags:
   - Heat Waves

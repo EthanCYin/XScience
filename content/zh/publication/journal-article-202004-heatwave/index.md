@@ -2,7 +2,6 @@
 title: "Spatiotemporal Distribution and Risk Assessment of Heat Waves Based on Apparent Temperature in the One Belt and One Road Region"
 authors:
 - admin
-- Cong Yin
 - Fei Yang
 - Juanle Wang
 - Yexing Ye
