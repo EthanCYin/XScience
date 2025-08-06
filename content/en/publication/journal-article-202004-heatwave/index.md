@@ -33,7 +33,7 @@ tags:
 - Heat Waves
 - Apparent Temperature
 - Risk Assessment
-featured: true
+featured: false
 
 # links:
 # - name: ""

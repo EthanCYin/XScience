@@ -33,7 +33,7 @@ tags:
 - 热浪
 - 体感温度
 - 风险评估
-featured: true
+featured: false
 
 # links:
 # - name: ""
