@@ -65,21 +65,3 @@ zh:
     locale:
       date_format: '2006年1月2日'
       time_format: '下午3:04'
-    # SEO
-    
-    marketing:
-      seo:
-        site_type: Person
-        local_business_type: ''
-        org_name: ''
-        description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-        twitter: 'GetResearchDev'
-      analytics:
-        google_analytics: ''
-        baidu_tongji: 'b154d5235a360d0ad21d75f955e2b936'
-        plausible: ''
-        fathom: ''
-        pirsch: ''
-      verification:
-        google: ''
-        baidu: ''
