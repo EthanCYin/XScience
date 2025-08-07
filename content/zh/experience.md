@@ -1,5 +1,5 @@
 ---
-title: '学习和工作经历'
+title: '工作经历'
 date: 2023-10-24
 type: landing
 
@@ -12,7 +12,7 @@ design:
 sections:
   - block: resume-experience
     content:
-      title: 学习和工作经历
+      title: 工作经历
       username: admin
     design:
       # Hugo date format
