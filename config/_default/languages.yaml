@@ -20,7 +20,7 @@ zh:
       - name: 个人简介
         url: /
         weight: 10
-      - name: 学术成果
+      - name: 研究成果
         url: publication/
         weight: 11
       - name: 数据产品
@@ -29,7 +29,7 @@ zh:
       - name: 会议报告
         url: event/
         weight: 13
-      - name: 最新动态
+      - name: 进展动态
         url: post/
         weight: 20
       - name: 学术履历
