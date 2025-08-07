@@ -39,7 +39,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'uploads/journal-article-202109-phenology.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

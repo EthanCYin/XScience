@@ -39,7 +39,7 @@ featured: true
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'uploads/journal-article-202205-heatwave.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: 'https://www.doi.org/10.5281/zenodo.4764325'
 url_poster: ''
