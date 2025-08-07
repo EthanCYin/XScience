@@ -55,7 +55,7 @@ interests:
 
 education:
   - area: PhD, Geographic Information System
-    institution: University of the Chinese Academy of Sciences
+    institution: University of Chinese Academy of Sciences
     date_start: 2018-09-01
     date_end: 2024-06-30
     summary: |
