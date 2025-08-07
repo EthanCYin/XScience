@@ -4,9 +4,9 @@ title: Contribution of Changes in Snow Cover Extent to Shortwave Radiation Pertu
 authors:
 - Xiaona Chen
 - Yaping Yang
-- Cong Yin
+- admin
 date: '2021-01-01'
-publishDate: '2025-08-07T06:33:17.881186Z'
+publishDate: '2025-08-07T06:33:17.624131Z'
 publication_types:
 - article-journal
 publication: '*Remote Sensing*'

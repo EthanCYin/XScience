@@ -3,9 +3,9 @@ title: A Transformer-based method to simulate multi-scale soil moisture
 authors:
 - Yangxiaoyue Liu
 - Ying Xin
-- Cong Yin
+- admin
 date: '2025-07-01'
-publishDate: '2025-08-07T06:33:17.912873Z'
+publishDate: '2025-08-07T06:33:17.655730Z'
 publication_types:
 - article-journal
 publication: '*Journal of Hydrology*'
