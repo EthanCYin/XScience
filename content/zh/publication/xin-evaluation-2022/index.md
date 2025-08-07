@@ -40,8 +40,8 @@ abstract: Precipitation is an important component of the hydrological cycle and 
   of reanalysis ERA5 data over the arid, topographically complex Mongolian Plateau,
   which can inform regional applications with different requirements.
 tags:
-- Hydrology
-- Climate and Earth system modelling
+- 水文学  
+- 气候与地球系统建模  
 links:
 - name: URL
   url: https://www.nature.com/articles/s41598-022-26047-8

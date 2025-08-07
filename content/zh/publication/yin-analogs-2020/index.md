@@ -28,8 +28,10 @@ abstract: 'There seems to be a gap between the public and complex climate predic
 summary: 
 
 tags:
-- Climate Analog
-- Climate Change
+- 气候变化    
+- 气候类比  
+- 气候新颖性  
+- 减排  
 featured: false
 
 # links:

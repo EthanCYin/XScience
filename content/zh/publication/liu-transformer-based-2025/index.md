@@ -36,11 +36,11 @@ abstract: 'The Transformer model, as an emerging deep learning method, shows gre
   benefits and potential of SMSNet in generating SM products with favorable accuracy
   over diverse and vast regions.'
 tags:
-- Downscaling
-- Reconstruction
-- Simulation
-- Soil moisture
-- Transformer
+- 降尺度  
+- 重建  
+- 模拟  
+- 土壤湿度  
+- Transformer（变换器）模型  
 links:
 - name: URL
   url: https://www.sciencedirect.com/science/article/pii/S0022169425002380

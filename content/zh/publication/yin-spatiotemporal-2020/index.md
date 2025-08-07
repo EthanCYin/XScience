@@ -29,9 +29,9 @@ abstract: 'Heat waves seriously affect the productivity and daily life of human 
 summary: 
 
 tags:
-- Heat Waves
-- Apparent Temperature
-- Risk Assessment
+- 热浪
+- 体感温度
+- 风险评估
 featured: false
 
 # links:

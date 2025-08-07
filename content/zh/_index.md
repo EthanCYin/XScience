@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: 'My Research'
+      title: '研究兴趣'
       subtitle: ''
       text: |-
         我近期的研究聚焦于极端火灾——气候变化最具社会和环境破坏性的后果之一。我正专注于使用数据驱动方法预测极端火灾，并理解其成因，旨在为火灾科学和火灾管理的发展贡献力量，为拯救生命、保护财产提供科学见解。欢迎联系合作！

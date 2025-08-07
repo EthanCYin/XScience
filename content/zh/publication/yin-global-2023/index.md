@@ -31,9 +31,10 @@ abstract: 'Temperature is the most concerned factor in the human–environment i
 summary: 
 
 tags:
-- Heat Waves
-- Apparent Temperature
-- Tool
+- 热浪
+- 体感温度
+- 数据
+- 工具
 featured: true
 
 # links:
