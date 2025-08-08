@@ -6,9 +6,9 @@ authors:
 - Xiaona Chen
 - Xiafang Yue
 - Yangxiaoyue Liu
-- Cong Yin
+- admin
 date: '2022-12-01'
-publishDate: '2025-08-07T06:33:17.889028Z'
+publishDate: '2025-08-07T06:33:17.631898Z'
 publication_types:
 - article-journal
 publication: '*Scientific Reports*'
@@ -40,8 +40,8 @@ abstract: Precipitation is an important component of the hydrological cycle and 
   of reanalysis ERA5 data over the arid, topographically complex Mongolian Plateau,
   which can inform regional applications with different requirements.
 tags:
-- Hydrology
-- Climate and Earth system modelling
+- 水文学  
+- 气候与地球系统建模  
 links:
 - name: URL
   url: https://www.nature.com/articles/s41598-022-26047-8

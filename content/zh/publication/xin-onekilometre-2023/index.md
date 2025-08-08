@@ -7,9 +7,9 @@ authors:
 - Xiaona Chen
 - Xiafang Yue
 - Yangxiaoyue Liu
-- Cong Yin
+- admin
 date: '2023-06-01'
-publishDate: '2025-08-07T06:33:17.904883Z'
+publishDate: '2025-08-07T06:33:17.647780Z'
 publication_types:
 - article-journal
 publication: '*International Journal of Climatology*'
@@ -39,6 +39,11 @@ abstract: Abstract  The fragile ecological environment of the Mongolian Plateau 
   over the MP. With fine spatial resolution, long‐time span and good spatial continuity,
   the downscaled air temperature and precipitation will be a useful data source to
   explore climate change over the MP.
+tags:
+- 气温
+- 降水
+- 数据
+- 蒙古高原
 links:
 - name: URL
   url: https://rmets.onlinelibrary.wiley.com/doi/10.1002/joc.8063

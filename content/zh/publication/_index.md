@@ -1,5 +1,5 @@
 ---
-title: 论文和预印本
+title: 论文和其他成果
 cms_exclude: true
 
 # View.

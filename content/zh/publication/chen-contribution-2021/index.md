@@ -4,9 +4,9 @@ title: Contribution of Changes in Snow Cover Extent to Shortwave Radiation Pertu
 authors:
 - Xiaona Chen
 - Yaping Yang
-- Cong Yin
+- admin
 date: '2021-01-01'
-publishDate: '2025-08-07T06:33:17.881186Z'
+publishDate: '2025-08-07T06:33:17.624131Z'
 publication_types:
 - article-journal
 publication: '*Remote Sensing*'
@@ -33,9 +33,9 @@ abstract: Snow-induced radiative forcing (SnRF), defined as the instantaneous pe
   a weakening trend. Therefore, this should be taken into consideration in current
   climate change models and future climate projections.
 tags:
-- energy budget
-- Northern Hemisphere
-- snow-induced radiative forcing
+- 能量收支
+- 北半球
+- 雪引起的辐射强迫
 links:
 - name: URL
   url: https://www.mdpi.com/2072-4292/13/23/4938
