@@ -168,4 +168,4 @@ awards:
 
 I am an early-career climate scientist pushing the boundaries of understanding wildfires and climate extremes using hydroclimatic, data-driven, and geostatistical approaches. My work has led to step-changes in understanding the synchronicity and persistence of extreme fire weather, factors that strongly influence extreme fires.
 
-I work with [Prof. John Abatzoglou](https://engineering.ucmerced.edu/content/john-abatzoglou), who leads the [Climatology lab](https://www.climatologylab.org) at University of California, Merced.
+I work with [Prof. John Abatzoglou](https://engineering.ucmerced.edu/content/john-abatzoglou), who leads the [Climatology Lab](https://www.climatologylab.org) at University of California, Merced.
