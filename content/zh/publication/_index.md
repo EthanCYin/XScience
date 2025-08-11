@@ -1,5 +1,5 @@
 ---
-title: 论文和其他成果
+title: 论文及其他
 cms_exclude: true
 
 # View.

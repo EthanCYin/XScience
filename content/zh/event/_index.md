@@ -1,5 +1,5 @@
 ---
-title: 口头报告和海报
+title: 报告和海报
 cms_exclude: true
 #url: talk
 

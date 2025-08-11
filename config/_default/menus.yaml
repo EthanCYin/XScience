@@ -10,7 +10,7 @@ main:
   - name: Publications
     url: publication/
     weight: 11
-  - name: Products
+  - name: Resources
     url: project/
     weight: 12
   - name: Presentations

@@ -1,4 +1,4 @@
 ---
-title: Announcements & Highlights
+title: Updates & Highlights
 view: article-grid
 ---

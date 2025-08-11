@@ -1,4 +1,4 @@
 ---
-title: 成果和活动
+title: 动态和亮点
 view: article-grid
 ---

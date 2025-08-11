@@ -1,5 +1,5 @@
 ---
-title: Papers & More
+title: Papers & Outputs
 cms_exclude: true
 
 # View.
